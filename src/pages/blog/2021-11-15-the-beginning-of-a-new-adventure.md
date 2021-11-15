@@ -5,6 +5,8 @@ date: 2021-11-15T03:03:36.769Z
 description: Starting a new job, new hobbies, and growing with my family.
 featuredpost: true
 featuredimage: /img/pexels-andrew-neel-1967535.jpg
+tags:
+  - FirstPost
 ---
 ![Photo by Andrew Neel from Pexels](/img/pexels-andrew-neel-1967535.jpg "Thinking about remote work.")
 
