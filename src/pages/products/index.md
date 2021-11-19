@@ -71,4 +71,12 @@ pricing:
       description: Build one or more NFTs for your collection.
       items:
         - NFT
+    - plan: Custom Website
+      price: Starting at $100
+      description: Build you/your business a custom web presence from start to finish.
+    - plan: Technology Consulting
+      price: Starting at $90/hour
+      description: Working with an industry leading techonology or fixing something
+        broken, I can help you and your issues. Let's talk about what they are
+        before we get going, and solve your issues.
 ---
