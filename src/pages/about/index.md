@@ -1,19 +1,20 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: About Me
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### A True "Boy Scout"
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+As a joke my friends growing up and, and to this day, call me a "True Boy Scout". I always put others first, do my best whenever I can, and I am always looking for ways to make the world better. It does help that I am an Eagle Scout, and actually worked as a Professional Scouter for eight years. 
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Technology is Key
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+I have been working with PC's all my life and I have loved keeping up to date with as much technology as possible. I believe that technology is a force for growth, and development. If there is a way to give people more time to enjoy life through technology then we should work towards it. 
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### Growth Mindset
+
+Never Stop Learning! This is my every day. If you haven't learned something new today, what have you accomplished? This how my mind works. I don't want a day to go by that I haven't learned something new, or at least built upon a skillset.
+
+### Getting Things Done
+
+With my eight years as a Scouting Professional, I was always looking and implementing ways to get a certain job done with the best results, for the people I was serving. It wasn't always easy, but the results were there. I do my best not to leave things half done.
