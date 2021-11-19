@@ -58,7 +58,7 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 testimonials: []
-full_image: /img/products-full-width.jpg
+full_image: /img/pexels-pixabay-276452.jpg
 pricing:
   heading: Services I Offer
   description: I tailor a solution for your needs. Not just something off of a
@@ -66,20 +66,22 @@ pricing:
     anything can be done, with the right time, effort, and willingness, so lets
     work on this together.
   plans:
-    - plan: Custom NFT (or collection
-      price: Starting at $50
-      description: Build one or more NFTs for your collection.
+    - plan: Custom NFTs
+      price: 50 and up.
+      description: Build one or more NFTs for your collection. An NFT (Non-Fungible
+        Token) is a digital asset that represents real-world objects like art or
+        music
       items:
         - NFT
         - Collection
     - plan: Custom Website
-      price: Starting at $100
+      price: 100 and up.
       description: Build you/your business a custom web presence from start to finish.
       items:
         - Website
         - Ecommerce
-    - plan: Technology Consulting
-      price: Starting at $90/hour
+    - plan: Tech Consulting
+      price: 90 per hour.
       description: Working with an industry leading techonology or fixing something
         broken, I can help you and your issues. Let's talk about what they are
         before we get going, and solve your issues.
