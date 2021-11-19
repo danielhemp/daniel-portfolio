@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
-title: Daniel Hemphill
-image: /img/home-jumbotron.jpg
+title: Hemphill Web Development
+image: /img/fotis-fotopoulos-duhkov44prg-unsplash.jpg
 heading: An aspiring developer with artist asspirations
 subheading: Building sites, and making  digital art, what more is there?
 mainpitch:
