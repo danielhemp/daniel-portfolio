@@ -103,8 +103,8 @@ const Footer = class extends React.Component {
                     style={{ width: "1em", height: "1em" }}
                   />
                 </a>
-                <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="danielhemphill" data-description="Support me on Buy me a coffee!" data-message="" data-color="#5F7FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
-              </div>
+                <a href="https://www.buymeacoffee.com/danielhemphill"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=danielhemphill&button_colour=5F7FFF&font_colour=ffffff&font_family=Arial&outline_colour=000000&coffee_colour=FFDD00"></a>
+                </div>
             </div>
           </div>
         </div>
