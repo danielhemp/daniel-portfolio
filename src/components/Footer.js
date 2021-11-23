@@ -103,13 +103,7 @@ const Footer = class extends React.Component {
                     style={{ width: "1em", height: "1em" }}
                   />
                 </a>
-                <a href="https://www.buymeacoffee.com/danielhemphill" target="_blank">
-                  <img 
-                    src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" 
-                    alt="Buy Me A Coffee" 
-                    style="height: 60px !important;width: 217px !important;" 
-                    />
-                      </a> </div>
+                </div>
             </div>
           </div>
         </div>
