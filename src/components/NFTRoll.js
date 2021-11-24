@@ -64,7 +64,7 @@ class NFTRollTemplate extends React.Component {
   }
 }
 
-BlogRoll.propTypes = {
+NFTRoll.propTypes = {
   data: PropTypes.shape({
     allMarkdownRemark: PropTypes.shape({
       edges: PropTypes.array,
@@ -80,7 +80,7 @@ export default function NFTRoll() {
         query NFTRollQuery {
           allMarkdownRemark(
             sort: { order: DESC, fields: [frontmatter___date] }
-            filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
+            filter: { frontmatter: { templateKey: { eq: "nft-collection" } } }
           ) {
             edges {
               node {
