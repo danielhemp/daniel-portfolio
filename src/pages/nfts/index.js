@@ -22,7 +22,7 @@ export default class NFTIndexPage extends React.Component {
               padding: "1rem",
             }}
           >
-            Latest Stories
+            Latest Collections
           </h1>
         </div>
         <section className="section">
