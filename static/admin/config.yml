@@ -34,7 +34,7 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list" }
 
-  - name: "NFTs"
+  - name: "ntfs"
     label: "NFTs"
     folder: "src/pages/nfts"
     create: true
