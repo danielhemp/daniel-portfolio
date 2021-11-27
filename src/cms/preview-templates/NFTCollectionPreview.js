@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { NftCollectionTemplate } from '../../templates/nft-collection'
+import { NFTCollectionTemplate } from '../../templates/nft-collection'
 
 const NFTCollectionPreview = ({ entry, widgetFor }) => {
   const tags = entry.getIn(['data', 'tags'])
