@@ -13,19 +13,12 @@ description: I am an aspiring develper with a love for family, technology, and
   on, and the adventures that I take up along the way.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/career.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        After working for the Non-Profit sector for 8 years I decided that it was time for a change. I have always had a passion for technology and love staying up to date with new ideas and concepts. So I decided to become a IT Support Technician as a step in the direction of becoming an IT professional
+    - image: /img/web-dev.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+       I have been working with several small companies and have worked on updating, modifying, implimenting new web technologies. This has included working with PIM's, CMS's and webtools for small and medium sized businesses. I liked working with these types of projects so much I would like to make it a full time career. I firmly believe that if a business doesn't have a web presence it will not be able to last very long in the global ecomony that we now occupy. The Web is the Future.
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
