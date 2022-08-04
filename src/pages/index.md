@@ -13,19 +13,15 @@ description: I am an aspiring develper with a love for family, technology, and
   on, and the adventures that I take up along the way.
 intro:
   blurbs:
-    - image: /img/career.png
+    - image: /img/work-life-balance.png
       text: >
-        After working for the Non-Profit sector for 8 years I decided that it was time for a change. I have always had a passion for technology and love staying up to date with new ideas and concepts. So I decided to become a IT Support Technician as a step in the direction of becoming an IT professional
+        After working for the Non-Profit sector for 8 years I decided that it was time for a change. My family is at the core of who I am and I don't want to endanger that. So I needed to transition. I have always had a passion for technology and love staying up to date with new ideas and concepts. So I decided to become a IT Support Technician as a step in the direction of becoming an IT professional.
     - image: /img/web-dev.png
       text: >
        I have been working with several small companies and have worked on updating, modifying, implimenting new web technologies. This has included working with PIM's, CMS's and webtools for small and medium sized businesses. I liked working with these types of projects so much I would like to make it a full time career. I firmly believe that if a business doesn't have a web presence it will not be able to last very long in the global ecomony that we now occupy. The Web is the Future.
-    - image: /img/tutorials.png
+    - image: /img/career.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        I have attended NuCamp Full-Stack Web Development Bootcamp, and have learned a lot. I am currently working on expand my experience and learning new languages and skills. I am experienced in Project Managament, but I have begun the process of becoming a certified project manager, while learning Agile Development Methodologies, and encorporating them into my day to day.
     - image: /img/meeting-space.png
       text: >
         We believe that good coffee has the power to bring people together.
