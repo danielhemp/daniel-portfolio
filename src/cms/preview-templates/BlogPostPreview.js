@@ -1,11 +1,11 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { NftCollectionTemplate } from '../../templates/nft-collection'
+import { BlogPostTemplate } from '../../templates/blog-post'
 
-const NFTCollectionPreview = ({ entry, widgetFor }) => {
+const BlogPostPreview = ({ entry, widgetFor }) => {
   const tags = entry.getIn(['data', 'tags'])
   return (
-    <NFTCollectionTemplate
+    <BlogPostTemplate
       content={widgetFor('body')}
       description={entry.getIn(['data', 'description'])}
       tags={tags && tags.toJS()}
@@ -14,11 +14,11 @@ const NFTCollectionPreview = ({ entry, widgetFor }) => {
   )
 }
 
-NFTCollectionPreview.propTypes = {
+BlogPostPreview.propTypes = {
   entry: PropTypes.shape({
     getIn: PropTypes.func,
   }),
   widgetFor: PropTypes.func,
 }
 
-export default NFTCollectionPreview
+export default BlogPostPreview
