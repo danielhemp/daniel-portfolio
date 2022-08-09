@@ -2,7 +2,7 @@
 heading: Technology that you can use.
 path: /products
 templateKey: product-page
-title: My Services
+title: My Projects
 image: /img/pexels-marta-branco-1194713.jpg
 description: "Your solution needs to be tailored to you, not piecing things
   together that fit. "
