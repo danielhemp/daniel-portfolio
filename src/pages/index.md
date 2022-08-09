@@ -3,7 +3,7 @@ templateKey: index-page
 title: Hemphill Web Development
 image: /img/fotis-fotopoulos-duhkov44prg-unsplash.jpg
 heading: An aspiring developer with artist leanings
-subheading: Building sites, and making  digital art, what more is there?
+subheading: Building sites, and living life, what more is there?
 mainpitch:
   title: About Me
   description: I am a previous non-profit professional with an IT focused mindset.
