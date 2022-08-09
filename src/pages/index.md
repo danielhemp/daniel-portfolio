@@ -22,13 +22,9 @@ intro:
     - image: /img/career.png
       text: >
         I have attended NuCamp Full-Stack Web Development Bootcamp, and have learned a lot. I am currently working on expand my experience and learning new languages and skills. I am experienced in Project Managament, but I have begun the process of becoming a certified project manager, while learning Agile Development Methodologies, and encorporating them into my day to day.
-    - image: /img/meeting-space.png
+    - image: /img/scout_uniform.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        I have often been called a "True Boy Scout" as I am hard coded to be truthful and hard working. But the other side of this personality is that my family is a huge part of my life. Whether that is being the Committee Chairmen of my children's Cub Scout Pack, or just spending the night at home playing games with my whole family, there is nothing better than doing a hard days works, and getting to relax with family.
   heading: BOOO
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
