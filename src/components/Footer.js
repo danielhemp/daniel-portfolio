@@ -59,12 +59,12 @@ const Footer = class extends React.Component {
                       <Link className="navbar-item" to="/nfts">
                         Latest Collections
                       </Link>
-                    </li> */}
+                    </li> 
                     <li>
                       <Link className="navbar-item" to="/contact">
                         Contact
                       </Link>
-                    </li>
+                    </li>*/}
                   </ul>
                 </section>
               </div>
