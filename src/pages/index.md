@@ -29,12 +29,8 @@ intro:
       text: >
         
         I have often been called a "True Boy Scout" as I am hard coded to be truthful and hard working. But the other side of this personality is that my family is a huge part of my life. Whether that is being the Committee Chairmen of my children's Cub Scout Pack, or just spending the night at home playing games with my whole family, there is nothing better than doing a hard days works, and getting to relax with family.
-  heading: BOOO
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: Building a life worth living, while living life to the fullest!
+  description: "\n"
 main:
   heading: Great coffee with no compromises
   description: >
