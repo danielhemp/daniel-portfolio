@@ -4,7 +4,7 @@ title: Setting Up an Enviorment for Myself and the Family
 date: 2022-08-25T02:55:00.000Z
 description: Setting up tools to build things, and keep our data private.
 featuredpost: true
-featuredimage: https://logz.io/wp-content/uploads/2016/01/docker-facebook.png
+featuredimage: /img/self-host-header.png
 tags:
   - Docker
 ---
