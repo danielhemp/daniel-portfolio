@@ -1,11 +1,10 @@
 ---
-heading: Technology that you can use.
+heading: Take a look at some of the projects that I have built!
 path: /products
 templateKey: product-page
 title: My Projects
 image: /img/pexels-marta-branco-1194713.jpg
-description: "Your solution needs to be tailored to you, not piecing things
-  together that fit. "
+description: "Take a look at my projects and let me know if you would make recomendations on them. I am always looking for ways to better my code and projects."
 intro:
   blurbs:
     - image: /img/coffee-gear.png
