@@ -14,12 +14,8 @@ For those of you that don't know what Docker is it is a way of containerizing ap
 
 The Containers that I have set up so far are pretty simple, but they will continue to be added to over time, and hopefully I will be able to share even more about my experiences. 
 
-
-
 The Ones I have set up so far are 
 
-*   ![Portainer]()
-
-  Portainer: to manage all of the other containers
+*  Portainer: to manage all of the other containers
 * Code-Server: to write my own code, and have access everywhere
 * Heimdall: a quick personal home-page for all of my internet usage.
