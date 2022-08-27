@@ -18,7 +18,8 @@ export const ProductPageTemplate = ({
   intro,
   main,
 //  testimonials,
-  fullImage
+  fullImage,
+
 }) => {
   const heroImage = getImage(image) || image;
   const fullWidthImage = getImage(fullImage) || fullImage;
@@ -75,19 +76,7 @@ export const ProductPageTemplate = ({
         </div>
       </section>
       <FullWidthImage img={fullWidthImage} imgPosition={"bottom"} />
-      <section className="section section--gradient">
-        <div className="container">
-          <div className="section">
-            <div className="columns">
-              <div className="column is-10 is-offset-1">
-                <h2 className="has-text-weight-semibold is-size-2">
-                  {pricing.heading}
-                </h2>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
+      
     </div>
   );
 };
@@ -109,7 +98,7 @@ ProductPageTemplate.propTypes = {
   }),
  // testimonials: PropTypes.array,
   fullImage: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-
+ 
 };
 
 const ProductPage = ({ data }) => {
@@ -126,7 +115,6 @@ const ProductPage = ({ data }) => {
         main={frontmatter.main}
  //       testimonials={frontmatter.testimonials}
         fullImage={frontmatter.full_image}
-
       />
     </Layout>
   );
@@ -202,6 +190,7 @@ export const productPageQuery = graphql`
           }
         }
        
+        }
       }
     }
   }
