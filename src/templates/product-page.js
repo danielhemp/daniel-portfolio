@@ -110,7 +110,7 @@ ProductPageTemplate.propTypes = {
     image2: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
     image3: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   }),
-  testimonials: PropTypes.array,
+ // testimonials: PropTypes.array,
   fullImage: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   pricing: PropTypes.shape({
     heading: PropTypes.string,
@@ -131,7 +131,7 @@ const ProductPage = ({ data }) => {
         description={frontmatter.description}
         intro={frontmatter.intro}
         main={frontmatter.main}
-        testimonials={frontmatter.testimonials}
+ //       testimonials={frontmatter.testimonials}
         fullImage={frontmatter.full_image}
         pricing={frontmatter.pricing}
       />
@@ -201,10 +201,7 @@ export const productPageQuery = graphql`
             }
           }
         }
-        testimonials {
-          author
-          quote
-        }
+
 
         full_image {
           childImageSharp {
