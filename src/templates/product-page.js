@@ -4,7 +4,7 @@ import { graphql } from "gatsby";
 import { getImage } from "gatsby-plugin-image";
 import Layout from "../components/Layout";
 import Features from "../components/Features";
-import Testimonials from "../components/Testimonials";
+//import Testimonials from "../components/Testimonials";
 import Pricing from "../components/Pricing";
 import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
 import FullWidthImage from "../components/FullWidthImage";
