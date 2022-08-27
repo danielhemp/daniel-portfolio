@@ -189,8 +189,7 @@ export const productPageQuery = graphql`
             gatsbyImageData(quality: 100, layout: FULL_WIDTH)
           }
         }
-       
-        }
+        
       }
     }
   }
