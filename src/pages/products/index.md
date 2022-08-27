@@ -56,9 +56,6 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
-testimonials:
-  - quote: "  "
-    author: "  "
 full_image: /img/pexels-pixabay-276452.jpg
 pricing:
   heading: Services I Offer
