@@ -17,7 +17,7 @@ export const ProductPageTemplate = ({
   description,
   intro,
   main,
-  testimonials,
+//  testimonials,
   fullImage,
   pricing,
 }) => {
@@ -70,7 +70,6 @@ export const ProductPageTemplate = ({
                     </div>
                   </div>
                 </div>
-  //              <Testimonials testimonials={testimonials} />
               </div>
             </div>
           </div>
