@@ -4,49 +4,28 @@ path: /products
 templateKey: product-page
 title: My Projects
 image: /img/pexels-marta-branco-1194713.jpg
-description: "Take a look at my projects and let me know if you would make recomendations on them. I am always looking for ways to better my code and projects."
+description: Take a look at my projects and let me know if you would make
+  recomendations on them. I am always looking for ways to better my code and
+  projects.
 intro:
   blurbs:
-    - image: /img/coffee-gear.png
+    - image: /img/NuCamp-screenshot.png
+      text: "NuCamp Campsite reservation Site. This site was built with React, and
+        Node.JS. Check out the campsites, leave a review, and reserve your spot.
+        "
+    - image: /img/old-Profile-Site.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+        Static, mobile friendly profile page that explains about my personality.
+        Built with Bootstrap, as a simple project
+  heading: Building Sites and Helping the World
+  description: "I love building website, taking on challenges, and helping others. "
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Big Values - Big Life.
+  description: I have grown up in the Scouting world and earned my Eagle Scout,
+    and several additional honors. I spent 9 years in the Non-Profit Management,
+    as a Professional Scouter, doing fundraising, recruiting, and training, to
+    help the Scouting program stay relevant, and be a positive impact on the
+    world.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
