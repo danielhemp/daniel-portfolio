@@ -1,7 +1,7 @@
 ---
 heading: Take a look at some of the projects that I have built!
-path: /products
-templateKey: product-page
+path: /projects
+templateKey: project-page
 title: My Projects
 image: /img/pexels-marta-branco-1194713.jpg
 description: Take a look at my projects and let me know if you would make
@@ -28,12 +28,12 @@ main:
     world.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/projects-grid3.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/projects-grid2.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/projects-grid1.jpg
 full_image: /img/pexels-pixabay-276452.jpg
 ---
