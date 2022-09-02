@@ -18,7 +18,7 @@ const FeatureGrid = ({ gridItems }) => (
             </div>
             <br></br>
           </div>
-          <p>{item.text}</p>
+          <p className="feature-item">{item.text}</p>
         </section>
       </div>
     ))}

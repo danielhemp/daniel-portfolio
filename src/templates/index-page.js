@@ -6,7 +6,7 @@ import { getImage } from "gatsby-plugin-image";
 import Layout from "../components/Layout";
 import Features from "../components/Features";
 import BlogRoll from "../components/BlogRoll";
-import NFTRoll from "../components/NFTRoll";
+//import NFTRoll from "../components/NFTRoll";
 import FullWidthImage from "../components/FullWidthImage";
 
 // eslint-disable-next-line
@@ -31,7 +31,7 @@ export const IndexPageTemplate = ({
               <div className="column is-10 is-offset-1">
                 <div className="content">
                   <div className="content">
-                    <div className="tile">
+                    <div className="tile center-title">
                       <h1 className="title">{mainpitch.title}</h1>
                     </div>
                     <div className="tile">
@@ -40,7 +40,7 @@ export const IndexPageTemplate = ({
                   </div>
                   <div className="columns">
                     <div className="column is-12">
-                      <h3 className="has-text-weight-semibold is-size-2">
+                      <h3 className="has-text-weight-semibold is-size-2 centered-title">
                         {heading}
                       </h3>
                       <p>{description}</p>
