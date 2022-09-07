@@ -16,7 +16,7 @@ intro:
         spot. 
 
 
-        Check the project ![Here](https://github.com/danielhemp/NucampSite)
+        Check the project <a href="https://github.com/danielhemp/NucampSite"> Here </a>
     - image: /img/old-Profile-Site.png
       text: >
         Static, mobile friendly profile page that explains about my personality.
