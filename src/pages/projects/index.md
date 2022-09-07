@@ -11,7 +11,7 @@ intro:
   blurbs:
     - image: /img/NuCamp-screenshot.png
       text: "NuCamp Campsite reservation Site. This site was built with React, and
-        Node.JS. Check out the campsites, leave a review, and reserve your spot.
+        Node.JS. Check out the campsites, leave a review, and reserve your spot. Check out the source [Here](https://github.com/danielhemp/NucampSite)
         "
     - image: /img/old-Profile-Site.png
       text: >
