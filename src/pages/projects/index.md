@@ -10,9 +10,13 @@ description: Take a look at my projects and let me know if you would make
 intro:
   blurbs:
     - image: /img/NuCamp-screenshot.png
-      text: "NuCamp Campsite reservation Site. This site was built with React, and
-        Node.JS. Check out the campsites, leave a review, and reserve your spot. Check out the source [Here](https://github.com/danielhemp/NucampSite)
-        "
+      text: >-
+        NuCamp Campsite reservation Site. This site was built with React, and
+        Node.JS. Check out the campsites, leave a review, and reserve your
+        spot. 
+
+
+        Check the project ![Here](https://github.com/danielhemp/NucampSite)
     - image: /img/old-Profile-Site.png
       text: >
         Static, mobile friendly profile page that explains about my personality.
@@ -36,4 +40,7 @@ main:
     alt: Coffee beans
     image: /img/projects-grid1.jpg
 full_image: /img/pexels-pixabay-276452.jpg
+pricing:
+  heading: "0"
+  description: "0"
 ---
