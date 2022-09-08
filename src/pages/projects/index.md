@@ -10,13 +10,9 @@ description: Take a look at my projects and let me know if you would make
 intro:
   blurbs:
     - image: /img/NuCamp-screenshot.png
-      text: >-
-        NuCamp Campsite reservation Site. This site was built with React, and
-        Node.JS. Check out the campsites, leave a review, and reserve your
-        spot. 
-
-
-        Check the project <a href="https://github.com/danielhemp/NucampSite"> Here </a>
+      text: "NuCamp Campsite reservation Site. This site was built with React, and
+        Node.JS. Check out the campsites, leave a review, and reserve your spot.
+        "
     - image: /img/old-Profile-Site.png
       text: >
         Static, mobile friendly profile page that explains about my personality.
